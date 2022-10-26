@@ -1,0 +1,124 @@
+#EmiChart{
+    padding-top: 40px;
+    width: 100%;
+    height: 350px;
+    color: black;
+    background-image: url("../../assets/navBackground.jpg");
+    background-size: 100% 350px;
+    margin-left: 7px;
+    padding-right: 20px;
+}
+p.header-subtitle {
+    color: #fff;
+    font-size: 25px;
+    background: #84BD5A;
+    display: inline-block;
+    padding: 5px 17px;
+    margin-bottom: 13px;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+.header-title-section {
+    text-align: justify;
+}
+#emicalculator{
+    background-color: rgb(250, 249, 249);
+    padding: 30px;
+}
+
+button.header-subtitle {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    background: #84BD5A;
+    display: inline-block;
+    padding: 15px 25px;
+    margin-bottom: 13px;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+
+#keyfeatures p{
+    
+    font-size : 20px;
+
+}
+
+#keyfeatures {
+    padding: 20px;
+}
+#keyfeatures .fa {
+    color: #84BD5A;
+}
+#keyfeatures h2 {
+    color: #84BD5A;
+    font-size: 40px;
+    font-weight: bold;
+}
+li{
+    list-style: none;
+}
+ul{
+    list-style: none;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+#table1{
+    background-color: rgb(250, 249, 249);
+    padding: 30px;
+}
+#table1 h2{
+    color: #84BD5A;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#docs_charges{
+    padding: 30px;
+}
+#docs_charges h2 {
+    color: #84BD5A;
+    font-size: 40px;
+    font-weight: bold;
+}
+#FAQ{
+    padding: 30px;
+}
+
+#relatedArticles{
+    background-color: rgb(250, 249, 249);
+    padding: 30px;
+}
+#relatedArticles h2 {
+    color: #84BD5A;
+    font-size: 40px;
+    font-weight: bold;
+}
+#relatedArticles .card:hover {
+    transform: scale(1.1);
+  }
+#relatedArticles .card {
+    transition: transform 0.2s ease;
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+    border-radius: 0;
+    border: 0;
+  }  
+#aboutus{
+    background-color: rgb(250, 249, 249);
+    padding: 30px;
+}
+#aboutus h2 {
+    color: #84BD5A;
+    font-size: 40px;
+    font-weight: bold;
+}
+#aboutus img{
+    position: relative;
+    left: 50px;
+}
+
+    
+
+
+
